@@ -1,0 +1,13 @@
+{
+
+    "title" : "title",
+    "org_id" : 53,
+    "description" :"description",
+    "posted_date" : "2023-10-07",
+    "end_date" :"2023-12-07",
+    "job_type" : "job_type",
+    "stipend" : 200000,
+    "questions" :"questions",
+    "No_of_openings" : 5
+
+}
